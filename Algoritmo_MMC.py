@@ -13,4 +13,5 @@ def mmc(*args):
     return mmc
 
 
-print(mmc(42, 74, 88, 92))
+
+# Ex: print(mmc(42, 74, 88, 92)) - O menor múltiplo comum deste conjunto é 1.572.648
